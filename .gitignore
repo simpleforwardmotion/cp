@@ -11,3 +11,6 @@
 *.la
 *.a
 
+# Document Output Formats
+*.pdf
+
