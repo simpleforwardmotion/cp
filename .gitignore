@@ -11,5 +11,3 @@
 *.la
 *.a
 
-# Binary directories
-cp_book/bin
