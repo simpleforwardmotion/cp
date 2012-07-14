@@ -9,5 +9,6 @@ int main()
   std::cin >> r;
   A = r * r * pi;
   std::cout << "radius r = " << r << ", area A = " << A << std::endl;
+  return 0;
 }
 
