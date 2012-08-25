@@ -1,4 +1,5 @@
 #include <csignal>
+#include <cstdlib>
 #include <iostream>
 
 class HandlesSignals
